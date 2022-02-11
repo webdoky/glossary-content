@@ -1,7 +1,7 @@
 ---
 term: Gutter
 translations:
-  - Жолоб
+  - жолоб
 referenceTranslations:
   - source: "Microsoft Language Portal"
     text: "Корінець"
