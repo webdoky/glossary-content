@@ -1,7 +1,7 @@
 ---
 term: Border box
 translations:
-  - рамки вмісту
+  - рамки меж
 referenceTranslations: []
 ---
 
