@@ -3,17 +3,15 @@ term: Return value
 translations:
   - повернене значення
 referenceTranslations:
-  - source: "Microsoft Language Portal"
+  - source: "Microsoft Dynamics 365"
     text: "Повернуте значення"
-  - source: "Microsoft Language Portal"
-    text: "Вернуте значення"
-  - source: "Microsoft Language Portal"
+  - source: "Microsoft Windows 10"
     text: "Код повернення"
-  - source: "Microsoft Language Portal"
+  - source: "Microsoft Word"
     text: "Повертане значення"
-  - source: "Microsoft Language Portal"
+  - source: "Microsoft Excel"
     text: "Отримане значення"
-  - source: "Microsoft Language Portal"
+  - source: "Microsoft Excel"
     text: "Вихідне значення"
   - source: "Англійсько-український словник сучасних термінів з ІТ (2011-2011)"
     text: "Значення повернення"

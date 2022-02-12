@@ -1,7 +1,7 @@
 ---
-term: Border box
+term: At-rule
 translations:
-  - рамки меж
+  - директива
 referenceTranslations: []
 ---
 
