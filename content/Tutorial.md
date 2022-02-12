@@ -2,6 +2,7 @@
 term: Tutorial
 translations:
   - підручник
+  - посібник
 referenceTranslations:
   - source: "Microsoft Language Portal"
     text: "Навчальний посібник"
